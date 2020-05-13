@@ -1,7 +1,7 @@
 {
   "name": "roflmao.space",
   "version": "1.0.0",
-  "description": "roflmaOS webside",
+  "description": "roflmaOS website",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/roflmaOS/roflmao.space.git"
+    "url": "git+https://github.com/roflmaOS/roflmaos.github.io"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/roflmaOS/roflmao.space/issues"
+    "url": "https://github.com/roflmaOS/roflmaos.github.io/issues"
   },
-  "homepage": "https://github.com/roflmaOS/roflmao.space#readme",
+  "homepage": "https://github.com/roflmaOS/roflmaos.github.io#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.4"
   }
