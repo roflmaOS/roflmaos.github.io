@@ -1,2 +1,2 @@
 # roflmao.space
-roflmaOS webside
+roflmaOS website
